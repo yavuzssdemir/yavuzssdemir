@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @yavuzssdemir, I'm a student, my major is computer programming, 
-      I'm also studying business administration and 
-      I'm getting support with professional software training.
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning React Frontend Developer
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello! I'm Yavuz Demir, a Front-End Developer. My passion for web technologies drives me to enhance user experiences and create visually appealing web interfaces. I enjoy working with technologies like HTML, CSS, and JavaScript, using modern web development tools to foster innovation in my projects. I'm always open to opportunities to contribute to the open-source software community. If you'd like to collaborate with me or explore our projects, please feel free to reach out!
 - 📫 How to reach me yavuzssdemir1@gmail.com
 
 <!---
